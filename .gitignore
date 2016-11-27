@@ -1,4 +1,17 @@
 node_modules
 config.js
+.DS_Store*
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.directory
+*~
+*.log
+build/*
+buildtmp
+*-compiled*
 .idea/
 .idea
+node_modules/
+coverage/
